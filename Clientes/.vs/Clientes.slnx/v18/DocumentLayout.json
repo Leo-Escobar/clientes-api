@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54491538-010B-4873-DD6A-9D54F0698191}|Clientes.Api\\Clientes.Api.csproj|c:\\users\\silve\\downloads\\clientes\\clientes-api\\clientes\\clientes.api\\clientes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54491538-010B-4873-DD6A-9D54F0698191}|Clientes.Api\\Clientes.Api.csproj|solutionrelative:clientes.api\\clientes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E57B3A1-840A-46A2-8ABF-A9C4C3B4B1E9}|Clientes.Infraestructura\\Clientes.Infraestructura.csproj|c:\\users\\silve\\downloads\\clientes\\clientes-api\\clientes\\clientes.infraestructura\\clientes.infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E57B3A1-840A-46A2-8ABF-A9C4C3B4B1E9}|Clientes.Infraestructura\\Clientes.Infraestructura.csproj|solutionrelative:clientes.infraestructura\\clientes.infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2BC4-53E0-47E6-9CF1-C8A239A8CCBA}|Clientes.Aplicacion\\Clientes.Aplicacion.csproj|c:\\users\\silve\\downloads\\clientes\\clientes-api\\clientes\\clientes.aplicacion\\clientes.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E7A2BC4-53E0-47E6-9CF1-C8A239A8CCBA}|Clientes.Aplicacion\\Clientes.Aplicacion.csproj|solutionrelative:clientes.aplicacion\\clientes.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DAECAC-9677-464B-8807-469600746C82}|Clientes.Dominio\\Clientes.Dominio.csproj|c:\\users\\silve\\downloads\\clientes\\clientes-api\\clientes\\clientes.dominio\\clientes.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46DAECAC-9677-464B-8807-469600746C82}|Clientes.Dominio\\Clientes.Dominio.csproj|solutionrelative:clientes.dominio\\clientes.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clientes.Dominio",
+              "DocumentMoniker": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Dominio\\Clientes.Dominio.csproj",
+              "RelativeDocumentMoniker": "Clientes.Dominio\\Clientes.Dominio.csproj",
+              "ToolTip": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Dominio\\Clientes.Dominio.csproj",
+              "RelativeToolTip": "Clientes.Dominio\\Clientes.Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T05:23:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.Api",
+              "DocumentMoniker": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Api\\Clientes.Api.csproj",
+              "RelativeDocumentMoniker": "Clientes.Api\\Clientes.Api.csproj",
+              "ToolTip": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Api\\Clientes.Api.csproj",
+              "RelativeToolTip": "Clientes.Api\\Clientes.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T05:06:45.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.Infraestructura",
+              "DocumentMoniker": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Infraestructura\\Clientes.Infraestructura.csproj",
+              "RelativeDocumentMoniker": "Clientes.Infraestructura\\Clientes.Infraestructura.csproj",
+              "ToolTip": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Infraestructura\\Clientes.Infraestructura.csproj",
+              "RelativeToolTip": "Clientes.Infraestructura\\Clientes.Infraestructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T05:04:17.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.Aplicacion",
+              "DocumentMoniker": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Aplicacion\\Clientes.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "Clientes.Aplicacion\\Clientes.Aplicacion.csproj",
+              "ToolTip": "C:\\Users\\silve\\Downloads\\clientes\\clientes-api\\Clientes\\Clientes.Aplicacion\\Clientes.Aplicacion.csproj",
+              "RelativeToolTip": "Clientes.Aplicacion\\Clientes.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T04:59:15.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
