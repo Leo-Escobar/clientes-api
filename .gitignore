@@ -3,10 +3,14 @@
 **/.vs/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
 
 # Build folders
 bin/
 obj/
+Debug/
+Release/
 
 # Rider / VS Code
 .idea/
@@ -14,3 +18,10 @@ obj/
 
 # Logs
 *.log
+
+# Test results
+TestResults/
+
+# OS
+Thumbs.db
+.DS_Store
