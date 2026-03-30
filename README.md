@@ -66,6 +66,11 @@ El script inserta:
 - clientes de ejemplo
 - un usuario llamado `admin`
 
+Credenciales de ejemplo para desarrollo local:
+
+- usuario: `admin`
+- contrasena: `Admin123*`
+
 Nota: la contrasena del usuario esta almacenada hasheada. Para realizar pruebas, reemplazar ese registro por uno generado en el entorno o actualizarlo directamente en la base de datos.
 
 ## Configuracion del proyecto
@@ -142,7 +147,7 @@ Body esperado:
 ```json
 {
   "nombreUsuario": "admin",
-  "contrasena": "TU_CONTRASENA"
+  "contrasena": "Admin123*"
 }
 ```
 
